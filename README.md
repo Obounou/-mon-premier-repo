@@ -103,4 +103,4 @@ Contributions are welcome! If you have suggestions, bug fixes, or improvements, 
 
 ## Author
 
-Ousmane MOMBO MOMBO
+Obounou Zolo Elvis
